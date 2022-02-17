@@ -4,7 +4,7 @@ For this production problem, you will learn to fork, clone, commit, and then pus
 changes to a remote GitHub repository.
 
 While this problem is not strictly required, it’s recommended you walk through these steps and
-complete it, especially if you’ve not forked and set up a repository like this before.
+complete it, especially if you’ve not forked and set up a repository like this before.q1
 
 1. While logged into your GitHub account in your web browser, point your browser to
    https://github.com/hci-2022/hci-production-problems and click the Fork button. You will then
@@ -36,7 +36,7 @@ complete it, especially if you’ve not forked and set up a repository like this
    editor, and write below the URL to your fork of the GitHub repository, and the add and commit
    this file:
 
-   My Production Problems repository URL:https://github.com/jlopez44/hci-production-problems 
+   My Production Problems repository URL:https://github.com/jlopez44/hci-production-problems
 
 4. Next, push your commit to GitHub. `git push origin main` from your command line. That is all you
    need to do to submit future Production Problems. **There is no need to open a pull request.** So

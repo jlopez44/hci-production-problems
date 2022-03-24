@@ -30,5 +30,5 @@ Your Rationale:I chose these colors after reading an article on how young childr
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=c0W3K103P1knknB8gsVeWr5sVk9EGgMknknB9frFftqisBkICui1knknB9frFftqisBkICui1knknB9frFftqisBkICui1
+Your Rationale:i chose these colors because they match the color scheme on one of my cybersecurity course books.

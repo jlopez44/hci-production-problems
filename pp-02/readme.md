@@ -20,8 +20,8 @@ Your Rationale: I chose this color because I always wanted to deviate from the U
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=51d1e0knknB6GxZeQsItfiIHRdj
+Your Rationale:I chose this color because after reading info on these colors it matched the Gold the U.S Navy uses. I t would be a springtime tour dedicated for military veterans.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 

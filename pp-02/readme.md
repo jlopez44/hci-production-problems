@@ -25,8 +25,8 @@ Your Rationale:I chose this color because after reading info on these colors it 
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=31C051knknB9frFftqisBkICui1knknB9frFftqisBkICui1knknB9frFftqisBkICui1
+Your Rationale:I chose these colors after reading an article on how young children's minds develop an associate shapes and colors.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 

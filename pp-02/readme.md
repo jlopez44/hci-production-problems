@@ -15,8 +15,8 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=14a0u0knknB8RE8g+stspi0DRbl
+Your Rationale: I chose this color because I always wanted to deviate from the U.S Navy pride colors of Blue and Gold. I also have always set these colors to the background of my Playstation and if I introduced a new gaming console it would be  a military edition style similar to the PS system.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
